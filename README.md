@@ -1,4 +1,4 @@
-Milestone 2 Descriptive Stats and Milestone 3 Beyond Descriptive Stats
+Milestone 2 Descriptive Stats and Milestone 3 Beyond Descriptive Stats and FINALLY Milestone 4
 ========
 Always Read The README
 
@@ -11,4 +11,4 @@ The other 2 files have .html tags; one is a single regression analysis of the ab
 
 So look at a set or 2 of 3, more if something catches your eye. Don't buy products with palm oil
 
-As of Milestone 3 there are 33 graphic files and 15 single regression and 15 multiple regression files.
+As of Milestone 4 there are 33 graphic files and 33 single regression and 32 multiple regression files. (There's always one that refuses to cooperate Sumatera Selantan not to name names)
